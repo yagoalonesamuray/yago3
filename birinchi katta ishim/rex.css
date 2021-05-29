@@ -1,0 +1,616 @@
+.contener{
+   
+    background-color: deepskyblue;
+    width: 100%;
+    height: 600px;
+    transition: 2s;
+}
+
+.div{
+    display: inline-flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 3px 16px 0px rgb(0 0 0 /10%);
+    z-index: 10;
+    color: black;
+}
+.Metle{
+    color:black;
+    
+     margin-top: 25px;
+     font-size: 40px;
+     margin-left: 100px;
+}
+.nav{
+    margin-left: 485px;
+    margin-top: 10px;
+}
+.navigation-item {
+   display: inline-flex;
+   
+}
+.navigation-item a{
+    text-decoration: none;
+}
+.a {
+    color:black;
+    padding: 10px;
+    font-size: 14px;
+}
+.main-navigation{
+    
+}
+.a:hover{
+    color: pink;
+}
+/* havola tugadi */
+.conter{
+    margin-top: 120px;
+    margin-right: 100px;
+    background-color:whitesmoke;
+     margin-left: 100px;
+     margin-bottom: 600px;
+     border-radius: 1%;
+     transition: 2s;
+}
+.conter:hover{
+    transform: rotate(360deg);
+    }
+.d1{
+    display: inline-flex;
+    
+}
+.main-cection_image img{
+    border-radius: 1%;
+    width: 500px;
+    height: 600px;
+}
+.main-cection_image{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.main-section_info{
+    padding-left: 100px;
+}
+.main-section_in{
+    font-size: 40px;
+}
+.but{
+    width: 35px;
+    height: 35px;
+}
+.but:hover{
+    background-color: mediumturquoise;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+.main-cection_malum{
+    transition: 2s;
+}
+.main-cection_malum:hover{
+transform: scale(1.2);
+}
+/* bosh qism tugadi */
+.reting-header{
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.about-my_self{
+    font-size: 30px;
+    color: orange;
+}
+.button{
+    margin-top: 40px;
+}
+.t1{
+    width: 120px;
+    height: 120px;
+    
+}
+.t1 i{
+    margin-top: 10px;
+   font-size: 20px;
+}
+
+.t1:hover{
+  background: linear-gradient(to right,#184659 5%,#ed239f 47%,#184659 100%
+  );
+    box-shadow: 0px 3px 16px 0px rgb(0 0 0 /10%);
+    width: 130px;
+    height: 120px;
+
+}
+.my-reting1{
+    transition: 2s;
+}
+.my-reting1:hover{
+    transform: rotate(360deg);
+}
+.my-self1{
+    font-size: 20px;
+    color: greenyellow;
+    padding: 10px;
+}
+.my-self1:hover{
+    transform: scale(1.2);
+}
+.my-reting{
+    display: inline-flex;
+}
+
+.my-reting2{
+    margin-left: 100px;
+}
+
+.diog{
+    transition: 2s;
+}
+.diog:hover{
+    transform: rotate(360deg);
+}
+/* reting tugadi */
+.my-edukation{
+    margin-top: 150px;
+}
+.con-edu{
+    margin: 00px ;
+    margin-left:450px;
+}
+.edukation1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.b-eks{
+    margin-top: 100px;
+    width: 130px;
+    height: 50px;
+    font-size: 14px;
+    border-radius: 5%;
+    border: none;
+   
+}
+.b-edu{
+    margin-top: 100px;
+    width: 130px;
+    height: 50px;
+    font-size: 14px;
+    border-radius: 5%;
+    margin-left: 30px;
+    border: none;
+}
+.b-eks:hover{
+   width: 130px;
+   height: 60px;
+   background: linear-gradient(to right, rgb(109, 109, 179),pink,rgb(101, 101, 189));
+}
+.b-edu:hover{
+    width: 130px;
+    height: 60px;
+    background: linear-gradient(to right, rgb(128, 128, 195),pink,rgb(85, 85, 172));
+ }
+.edukation2{
+    display: inline-flex;
+}
+.contener1{
+     
+    background-color: deepskyblue;
+    width: 100%;
+    height: 700px;
+}
+.my-sana{
+  margin-top: 65px;
+}
+.my-malum-co{
+    margin-left: 30px;
+    margin-top: 35px;
+}
+.my-sana1{
+    margin-bottom: 90px;
+    margin-top: 10px;
+    font-size: 19px;
+    color: white;
+    margin-right: 40px;
+}
+.my-malum-co1{
+    margin-left: 10px;
+    font-size: 17px;
+    color: white;
+}
+.my-sana2{
+    margin-bottom: 90px;
+    margin-top: 12px;
+    font-size: 19px;
+    padding-top: 10px;
+    color: white;
+}
+.my-chiziq{
+    border: 5px white;
+    width: 10px;
+    height: 20px;
+    margin-left: 10px;
+}
+.fas fa-calendar-week{
+    
+}
+.tel-post i{
+    font-size: 20px;
+    margin: 5px 5px;
+}
+.tel-raqam{
+    
+}
+.email-post i{
+    font-size: 20px;
+    margin: 5px 5px; 
+}
+.manzil-post i{
+    font-size: 20px;
+    margin: 5px 5px; 
+}
+.admin-post i{
+    font-size: 50px;
+    margin: 5px 5px; 
+}
+.chiziq{
+    width: 0.1px;
+    height: 400px;
+    border: 3px solid rgb(224, 205, 205);
+    border-radius: 10px;
+    
+}
+.aylana1{
+    position: relative;
+    top: 355%;
+    left: -29%;
+    width: 12px;
+    height: 12px;
+    background-color:white ;
+    border-radius: 100%;
+}
+.aylana2{
+    position: relative;
+    top: -395%;
+    left: -29%;
+    width: 12px;
+    height: 12px;
+    background-color:white ;
+    border-radius: 100%;
+}
+/* my clients boshlandi */
+.my-clicents{
+    margin:  20px 80px;
+    margin-top: 100px;
+}
+.my-client-sahifa{
+    margin-left: 280px;
+}
+.malumot-mijoz{
+    margin-left: 160px;
+    font-size: 20px;
+    color: gray;
+}
+.my-clients-malumot{
+    display: inline-flex;
+    margin-top: 40px;
+}
+@keyframes wem{
+    0%{
+
+    }
+    100%{
+        transform: scale(1.2);
+    }
+}
+.my-but{
+    width: 300px;
+    margin: 30px;
+    padding: 20px;
+    height: 350px;
+    transition: 2s;
+    overflow: hidden;
+    animation-name: wem;
+    animation-duration: 3s;
+    animation-iteration-count: 100;
+    animation-direction: initial;
+}
+.my-but:hover {
+    
+}
+   
+.my-but:hover i{
+   color: deepskyblue;
+   
+}
+.client-ma{
+    font-size: 17px;
+}
+.icon{
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* my-blog boshlandi */
+.my-blogs{
+    margin-top: 70px;
+    margin-left: 110px;
+}
+
+
+.my-rasm1{
+    display: inline-flex;
+}
+.my-blog-bosh{
+    margin: 10px;
+    font-size: 40px;
+   margin-left: 260px;
+}
+.my-blog-bosh-m{
+    margin-top: 20px;
+    margin-left: 310px;
+    font-size: 25px;
+}
+.my-b-bolim{
+    margin-left: 295px;
+    margin-top: 50px;
+}
+.my-b-bolim a{
+    text-decoration: none;
+}
+.e{
+    margin: 15px;
+    font-size: 17px;
+}
+.e:hover{
+    color: blue;
+}
+
+
+.banners{
+    position: relative;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+@keyframes lit{
+    0%{
+
+    }
+    100%{
+        transform: scale(1.2);
+    }
+}
+.banner{
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    animation-name: lit;
+    animation-duration: 2s;
+    animation-iteration-count: 100;
+    font-variant-alternates: annotation(10);
+}
+
+.banner-image{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+.banner-over{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(19, 69, 230, 0.9);
+    visibility: hidden;
+    cursor: pointer;
+    z-index: 1;
+}
+.b{
+    overflow: hidden;
+}
+.b:hover .banner-image{
+    transform: scale(1.5);
+}
+
+.banner-info{
+    position: absolute;
+    bottom: 44px;
+    left: 80px;
+    color: #fff;
+    visibility: hidden;
+    z-index: 1;
+}
+
+
+.banner:hover .banner-over{
+    visibility: visible;
+    top: 20px;
+    left: 20px;
+}
+
+.banner:hover .banner-info{
+    visibility: visible;
+    bottom: 24px;
+    left: 60px;
+}
+.banner-info i{
+    font-size: 120px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+}
+.b-ed{
+    border: none;
+    background: linear-gradient(to right, hsl(226, 85%, 49%) 0%, #ed239f 51%, #1345e6 100%);
+    background-size: 200% auto;
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 25px 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 500px;
+}
+.b-ed:hover{
+    background-position: right center;
+}
+
+.my-sheriklarim{
+   margin-left: 0px;
+}
+.ALEV{
+    margin: 10px;
+    width: 240px;
+
+}
+.logo{
+    margin-left: 60px;
+}
+.sh-but1{
+    width: 35px;
+    height: 35px;
+}
+.sh-but1 i{
+   font-size: 20px;
+}
+.sh-but1:hover{
+    background-color: rgb(0, 255, 242);
+    border-radius: 10px;
+}
+/* my blog tugadi */
+.my-sheriklar{
+    margin: 100px;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: 1s;
+}
+.ALEV:hover .logo img{
+transform: rotate(30deg);
+border: 5px solid red;
+}
+.m-sh-r{
+    display: inline-flex;
+}
+.m-sh-d{
+    display: inline-flex;
+}
+.ALEV{
+    margin: 20px 80px;
+
+}
+.sh-malum{
+    font-size: 21px;
+}
+.my-sh-bosh{
+    margin-left: 450px;
+}
+.sherik{
+    margin-top: 20px;
+    font-size: 17px;
+    margin-left: 180px;
+}
+.my-sherik2{
+    margin-top: 40px;
+}
+/* sheri tugadi */
+.footers{
+    margin-top: 60px;
+    background-color: black;
+    width: 1320px;
+    height: 300px;
+}
+.sh-but2{
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+    background-color: black;
+    border-radius: 3px;
+}
+.sh-but2 i{
+   font-size: 20px;
+   
+   color: white;
+}
+.sh-but2:hover{
+    background-color: rgb(0, 255, 242);
+    border-radius: 10px;
+}
+.footers{
+    position: absolute;
+    display: inline-flex;
+}
+
+
+.footer1{
+    margin-top: 70px;
+   margin-left: 80px;
+    color: white;
+   
+}
+.oxirgi{
+    margin-top: 12px;
+    color: rgb(175, 175, 175);
+}
+.ijtimoiy-b{
+   
+}
+.ema{
+    color: rgb(175, 175, 175);
+}
+
+.ijti{
+    color: rgb(175, 175, 175);
+}
+
+.emal{
+    background-color: black;
+    color: rgb(197, 196, 196);
+}
+.col-7{
+    color: blue;
+}
+.sana-o{
+    margin-top: 10px;
+    color: deepskyblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
